@@ -1,0 +1,13 @@
+name: forge-deploy
+version: 0.1.0
+description: Deploys to forge server.
+keywords:
+    - forge
+    - laravel
+    - deploy
+    - webhook
+properties:
+    url:
+        type: string
+        required: true
+
