@@ -1,7 +1,8 @@
-name: forge-deploy
+name: webhook-deploy
 version: 0.1.0
-description: Deploys to forge server.
+description: Triggers webhook from a service that deploys that way.
 keywords:
+    - envoyer
     - forge
     - laravel
     - deploy
