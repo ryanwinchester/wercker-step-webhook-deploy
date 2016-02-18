@@ -22,5 +22,5 @@ deploy:
 
 ## Notes
 
-I currently use this for deploying with forge and envoyer.
+I currently use this for deploying with [forge](https://forge.laravel.com) and [envoyer](https://envoyer.io).
 
