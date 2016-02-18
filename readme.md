@@ -15,7 +15,7 @@ The best way is to add the environment variable to a deploy target, and then use
 ```
 deploy:
     steps:
-      - ryanwinchester/webhook-deploy@0.1.1:
+      - ryanwinchester/webhook-deploy@0.2.0:
           url: $DEPLOY_WEBHOOK
 
 ```
