@@ -1,4 +1,4 @@
-# forge-deploy
+# webhook-deploy
 
 A step for triggering forge's deployment webhook.
 
@@ -15,7 +15,7 @@ The best way is to add the environment variable to a deploy target, and then use
 ```
 deploy:
     steps:
-      - ryanwinchester/webhook-deploy@0.1.0:
+      - ryanwinchester/webhook-deploy@0.1.1:
           url: $DEPLOY_WEBHOOK
 
 ```
