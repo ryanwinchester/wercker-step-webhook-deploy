@@ -1,12 +1,11 @@
 name: webhook-deploy
-version: 0.2.0
+version: 0.2.1
 description: Triggers webhook from a service that deploys that way.
 keywords:
+    - webhook
+    - deploy
     - envoyer
     - forge
-    - laravel
-    - deploy
-    - webhook
 properties:
     url:
         type: string
